@@ -6,3 +6,5 @@ This is my first GitHub repository. I'm learning how to use Git, GitHub, and Pul
 - How to install GitHub CLI
 - How to connect my account
 - How to open a Pull Request
+
+- How to fix mistakes and try again
